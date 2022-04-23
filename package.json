@@ -1,5 +1,5 @@
 {
-  "name": "redux-api-call",
+  "name": "RTKQuery-api-call-and-crud",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
